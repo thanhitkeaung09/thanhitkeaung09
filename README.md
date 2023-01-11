@@ -1,1 +1,1 @@
-<h1>Than Htike Aung</h1>
+<h1 style="text-align: center">Than Htike Aung</h1>
